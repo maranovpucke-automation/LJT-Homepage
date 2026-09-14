@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About"
+permalink: /
 author_profile: true
 read_time: false
 show_date: false
